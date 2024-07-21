@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         child: Scaffold(
           appBar: AppBar(
             title: Text(
-              "TUGAS PERTEMUAN 14",
+              "TUGAS UAS 0025",
             ),
             bottom: TabBar(
               tabs: [
