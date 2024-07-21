@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class YoutubeVideo extends StatelessWidget {
-  static String videoID = 'IN0KkGeEURw';
+  static String videoID = '1myyV30SAcCtWpuN';
   YoutubePlayerController _controller = YoutubePlayerController(
     initialVideoId: videoID,
     flags: YoutubePlayerFlags(
