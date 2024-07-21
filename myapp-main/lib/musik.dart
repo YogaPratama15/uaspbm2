@@ -23,7 +23,7 @@ class Musik extends StatelessWidget {
                   'Play',
                 ),
                 onPressed: () async {
-                  player!.play(AssetSource('welcomestranger-34421.mp3'));
+                  player!.play(AssetSource('the-beatles-yesterday_the-beatles-yesterday-remastered-2015'));
                 },
               ),
               ElevatedButton(
